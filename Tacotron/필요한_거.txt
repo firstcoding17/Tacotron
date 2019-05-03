@@ -1,0 +1,46 @@
+한국어 data(google speech api필요한데)
+05/02 ~05/03 google speech 구현
+05/03 ~ 05/04 새벽까지 RNN전까지
+05/06까지 나머지 해결
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/desbma/GoogleSpeech
+https://github.com/pannous/tensorflow-speech-recognition
+
+
+
+
+
+
