@@ -7,4 +7,5 @@ Emotion 동아리 프로젝트
 needed anaconda python 
 
 
-GSpeech : need pyaudio
+GSpeech : it was del
+madeGspeech: needed pyaudio, speech_recognition
