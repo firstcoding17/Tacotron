@@ -1,3 +1,5 @@
+##녹음
+
 import pyaudio
 import wave
 import time
