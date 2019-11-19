@@ -1,17 +1,6 @@
-# Tacotron 2 (without wavenet)
+this is NVIDIA`s Tacotron2(URL: https://github.com/NVIDIA/tacotron2)
+and I add Wavnet and will be change text folder and English model to korean model maybe 2019 11 19
 
-PyTorch implementation of [Natural TTS Synthesis By Conditioning
-Wavenet On Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf). 
-
-This implementation includes **distributed** and **automatic mixed precision** support
-and uses the [LJSpeech dataset](https://keithito.com/LJ-Speech-Dataset/).
-
-Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and [AMP].
-
-Visit our [website] for audio samples using our published [Tacotron 2] and
-[WaveGlow] models.
-
-![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
 
 
 ## Pre-requisites
