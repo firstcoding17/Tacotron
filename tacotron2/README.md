@@ -1,6 +1,8 @@
 this is NVIDIA`s Tacotron2(URL: https://github.com/NVIDIA/tacotron2)
-and I add Wavnet and will be change text folder and English model to korean model maybe 2019 11 19
+and I add Wavenet and will be change text folder and English model to korean model maybe 2019 11 19
 
+이건 엔디비디아의 타코트론2모델을 이용하여(링크: https://github.com/NVIDIA/tacotron2) 영어권 모델을 한국어권 모델로 바꿀예정입니다.
+wavenet도 추가해서 따로 wavenet을 추가할 필요는 없습니다. 아직 배우는 학생이므로 잘못한 부분이있으면 언제든지 말해주세요
 
 
 ## Pre-requisites
